@@ -1,4 +1,4 @@
-# Recommendation-Systems-with-Python-Machine-Learning-AI
+# Recommendation Systems with Python Machine Learning AI
 ## Introduction 
 This is a project that builds recommender systems: Classification-based, Model-based Collaborative filtering systems and Content-based recommender systems. At the end I also evaluate which recommender performed the best
 
